@@ -1,0 +1,52 @@
+
+.roof {
+    background-image: url("roof.jpeg");
+    background-color: bisque;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+div {
+    font-family: Helvetica;
+}
+
+h2.colorH2_1 {
+    background-color: mediumspringgreen;
+    color: white;
+}
+.colorH2_1 p {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.colorH2_2 {
+    background-color: lightcoral;
+    color: white;
+}
+.colorH2_2 p {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.colorH2_3 {
+    background-color: skyblue;
+    color: white;
+}
+.colorH2_3 p {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.prices {
+    font-weight: bold;
+    color: blue;
+}
